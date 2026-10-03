@@ -2,3 +2,9 @@ print('Today is a good day!')
 print(1+1)
 print('1+1')
 
+print("J'aime les pommes, il aime les poires.")
+print("J'aime les pommes,")
+print("il aime les poires.")
+print("---------------------")
+# \n: permet de faire un saut de ligne
+print("J'aime les pommes, \nil aime les poires.")
