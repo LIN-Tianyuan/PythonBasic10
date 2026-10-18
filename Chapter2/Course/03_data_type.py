@@ -28,3 +28,22 @@ print(9 // 2)
 # 9 divisé par 2 donne 4 avec un reste de 1.
 # 9 ➗ 2 = 4 …… 1
 print(9 % 2)
+print(18 // 4)
+print(18 % 4)
+# Puissance
+print(2 ** 3)   # 2 * 2 * 2 = 8
+
+print("-------------------")
+
+print(0.55 + 0.3)
+
+print("-------------------")
+
+print(type(42))
+print(type('42'))
+print(type(42.0))
+
+print("-------------------")
+weight = 7.5
+# Il enlève simplement la partie décimale
+print(int(weight))

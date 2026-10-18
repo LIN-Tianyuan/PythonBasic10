@@ -1,2 +1,6 @@
-name            True/False
-fromNo12
+name            True
+fromNo12        True
+from#12         False
+my_Boolean      True
+my-Boolean      False
+Obj2
